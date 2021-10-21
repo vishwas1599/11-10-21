@@ -1,0 +1,24 @@
+//in web-xml//1st content
+<welcome-file-list>
+
+    <welcome-file>index.jsp</welcome-file>
+
+  </welcome-file-list>
+
+
+//in index.jsp//2nd content
+
+<%@ page language="java" contentType="text/html; charset=ISO-8859-1"
+    pageEncoding="ISO-8859-1"%>
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>Insert title here</title>
+</head>
+<body>
+ 
+<a href="/SampleSpringMVC/LoginForm">go to login form</a>
+</body>
+</html>
+
